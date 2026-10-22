@@ -31,7 +31,7 @@
 
 <br/>
 
-pixels and things.gif
+
 ---
 
 <div align="center">
