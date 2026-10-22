@@ -39,10 +39,10 @@
 
 </div>
 
-<!-- ░░░ TABELA PARA ALINHAR O PERFIL (ESQUERDA) E O GIF DO PINTEREST (DIREITA) ░░░ -->
+<!-- ░░░ TABELA PARA ALINHAR O PERFIL (ESQUERDA) E O GIF DA MIKU (DIREITA) ░░░ -->
 <table align="center" width="100%" style="border: none;">
 <tr>
-<td width="55%" valign="top" style="border: none;">
+<td width="58%" valign="top" style="border: none;">
 
 ```yaml
 ╔══════════════════════════════════════════╗
