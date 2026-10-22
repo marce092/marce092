@@ -38,7 +38,7 @@
 
 <div align="center">
 
-## ⟦ 👤 PERFIL DO USUÁRIO ⟧
+## ⟦  PERFIL DO USUÁRIO ⟧
 
 </div>
 
@@ -49,13 +49,13 @@
 
 ```yaml
 ╔══════════════════════════════════════════╗
-║  USER.PROFILE  //  ACCESS GRANTED        ║
+║     MY.USER  //  ACCESS GRANTED          ║
 ╚══════════════════════════════════════════╝
 
 codinome:   "Marcela Fernanda"
 funcao:     "Desenvolvedor(a) em formação / Dev"
 base:       "Brasil 🇧🇷"
-foco:       ["Web", "Games", "IA", "Automação"]
+foco:       ["Web", "Games", "IA", "Projetos"]
 idiomas:    ["Português", "Inglês (em evolução)"]
-missao:     "Criar tecnologia que resolve problemas reais"
+missao:     "Criar tecnologia, sites que resolve problemas reais"
 status:     "Aprendendo todos os dias ⚡"
