@@ -39,12 +39,10 @@
 
 </div>
 
-<!-- ░░░ GIF DA MIKU ALINHADO À DIREITA ░░░ -->
-<img src="URL_DO_GIF_AQUI.gif" align="right" width="180" alt="Hatsune Miku Pixel" style="padding-left: 20px;">
-
-<table align="center" width="100%">
+<!-- ░░░ TABELA PARA ALINHAR O PERFIL (ESQUERDA) E O GIF DO PINTEREST (DIREITA) ░░░ -->
+<table align="center" width="100%" style="border: none;">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top" style="border: none;">
 
 ```yaml
 ╔══════════════════════════════════════════╗
