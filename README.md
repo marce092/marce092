@@ -47,7 +47,7 @@
 ║  USER.PROFILE  //  ACCESS GRANTED        ║
 ╚══════════════════════════════════════════╝
 
-codinome:   "SEU NOME"
+codinome:   "Marcela Fernanda"
 funcao:     "Desenvolvedor(a) em formação / Dev"
 base:       "Brasil 🇧🇷"
 foco:       ["Web", "Games", "IA", "Automação"]
