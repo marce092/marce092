@@ -31,7 +31,9 @@
 
 <br/>
 
-
+<p align="center">
+  <img src="pixels and things.gif" width="400px" />
+</p>
 ---
 
 <div align="center">
